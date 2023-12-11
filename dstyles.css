@@ -1,4 +1,4 @@
- [btn-mode], [class*="bm0"], [link-mode], [class*="lm0"] {
+e [btn-mode], [class*="bm0"], [link-mode], [class*="lm0"] {
     transition-property: background-color, color, border-color, box-shadow;
     transition-duration: 200ms;
 }
@@ -371,7 +371,7 @@ h6, [class*="fs6"] {
 }
 html {
     --ff0: inherit;
-    --ff1: Satoshi, sans-serif;
+    --ff1: Mona Sans VF, sans-serif;
     --fw0: inherit;
     --fw1: 400;
     --fw2: 500;
